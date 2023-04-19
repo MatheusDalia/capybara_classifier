@@ -1,8 +1,8 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 torch
-torchvision==0.12.0+cpu
+torchvision
 voila
 fastbook
 pillow<7
 packaging
-ipywidgets==7.6.3
+ipywidgets
