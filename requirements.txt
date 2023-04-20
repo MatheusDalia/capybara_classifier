@@ -3,6 +3,4 @@ torch
 torchvision
 voila
 fastbook
-pillow<7
-packaging
 ipywidgets
