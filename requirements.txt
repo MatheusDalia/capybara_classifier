@@ -1,2 +1,6 @@
 voila
 fastai
+fastbook
+pillow
+packaging
+ipywidgets
